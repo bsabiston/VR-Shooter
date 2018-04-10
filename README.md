@@ -6,5 +6,5 @@ The original tutorial series is on YouTube, starting here:
 https://www.youtube.com/watch?v=jdv8erC7ML8
 
 Here's a video of the VR version in action on an iPhone 7:
-https://www.youtube.com/watch?v=_Ue8P4tNXOg
+https://youtu.be/NKi4ICVdnZw
 
